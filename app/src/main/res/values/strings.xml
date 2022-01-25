@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Disable app link verify</string>
+    <string name="xposed_description">Disable app link verify on Android 12, restore to old behaviour when opening links.</string>
+    <string-array name="scope">
+        <item>android</item>
+    </string-array>
+</resources>

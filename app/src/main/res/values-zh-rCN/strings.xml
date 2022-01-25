@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">禁用应用链接验证</string>
+    <string name="xposed_description">在 Android 12 上禁用应用链接验证，打开链接时恢复到旧行为。</string>
+</resources>
